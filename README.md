@@ -23,3 +23,12 @@ Overall, Renren-UI is a powerful and versatile front-end solution that can great
 ├── package.json
 └── vue.config.js             // vue-cli scaffold configuration
 ```
+## Deployment
+```
+# Compile for production
+$ npm run build
+# npm run build -- --report # generate report.html to analyze bundle content
+
+# Publish to Github Pages (https://bit.ly/2YeUyzG)
+$ npm run deploy
+```
