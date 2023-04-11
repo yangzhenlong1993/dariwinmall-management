@@ -2,7 +2,6 @@
 # Content-Management-System
 The content management system is based on RENREN-UI. Renren-UI is a front-end solution that builds and develops based on Vue and Element-UI. It provides powerful front-end functionalities for the Renren-Security background management system. Renren-UI enables separation of the front-end and back-end, with data interaction through tokens and independent deployment.  
 
-Overall, Renren-UI is a powerful and versatile front-end solution that can greatly improve the user experience of the Renren-Security system.
 ## project structure
 ```
 ├── src                        
